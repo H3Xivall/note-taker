@@ -10,6 +10,9 @@ Note Taker is a simple note taker app the showcases basic GET/POST routes with a
 
 ## Links
 
+- [GitHub](https://github.com/h3xivall/note-taker)
+- [Heroku](https://h3x-note-taker-69e614f83fdb.herokuapp.com/)
+
 ## Usage
 
 - For Development use the command ``` npm run dev ```
