@@ -18,6 +18,7 @@ app.get('/notes', (req, res) => {
     res.sendFile(__dirname + '/public/notes.html');
 });
 
+// Starts the server to begin listening
 app.listen(PORT, () => {
     console.log('App listening at http://localhost:' + PORT + '/');
 });
